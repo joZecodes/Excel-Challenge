@@ -22,7 +22,7 @@
 * What are two conclusions you can draw about the Theater Outcomes by Launch Date?
   * Majority of successful plays are launched in the summer. Canceled plays don't seem to have any correlation with successful or failed.
 * What can you conclude about the Outcomes based on Goals?
-  * That the highest success rate is less than $5,000. And if the goal was between $5,000 and $25,000 there was about a %50 chance it would fail or succeed.
+  * That the highest success rate is less than $5,000. And if the goal was between $5,000 and $25,000 there was about a 50% chance it would fail or succeed.
 * What are some limitations of this dataset?
   * Could be unfair markets or bad location, for instance some plays could be kickstarting in big cities or in places where plays are popular or a big event where as in other instnaces they are in smaller cities or places that do not support it the same. There are all kinds of outside limitations you would have to account for.
 * What are some other possible tables and/or graphs that we could create?
